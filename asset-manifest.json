@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/srijit-mishra/color-react/static/css/main.e6c13ad2.css",
+    "main.js": "/srijit-mishra/color-react/static/js/main.cda3a10f.js",
+    "index.html": "/srijit-mishra/color-react/index.html",
+    "main.e6c13ad2.css.map": "/srijit-mishra/color-react/static/css/main.e6c13ad2.css.map",
+    "main.cda3a10f.js.map": "/srijit-mishra/color-react/static/js/main.cda3a10f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cda3a10f.js"
+  ]
+}
